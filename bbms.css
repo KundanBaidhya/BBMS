@@ -177,8 +177,8 @@ body{
     position: absolute;
     width: 35px;
     height: 35px;
-    left: 5%;
-    top: 10%;
+    left: 3%;
+    top: 6%;
     transform: translate(-50%,-50%);
 
     background: url(menu.png);
