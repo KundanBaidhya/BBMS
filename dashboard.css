@@ -1,0 +1,22 @@
+
+.box1{
+    position: relative;
+    width: 1310px;
+    height: 100px;
+    background-color:rgb(197, 10, 10);
+    color:white;
+    text-align: center;
+    margin-left:218;
+    margin-top:-8;
+
+} 
+.box2{
+    position:relative;
+    width: 298px;
+    height: 1074px;
+    background-color: rgb(244, 10, 49);
+
+} 
+body{
+    background-color:rgb(218, 121, 137);
+}
