@@ -12,9 +12,11 @@
 } 
 .box2{
     position:relative;
-    width: 298px;
+    width: 200px;
     height: 1074px;
     background-color: rgb(244, 10, 49);
+    margin: 0;
+
 
 } 
 body{
