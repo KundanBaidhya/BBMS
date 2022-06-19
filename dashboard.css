@@ -3,28 +3,37 @@ body{
 }
 .col1{
     float: left;
-    width: 10%;
-    background-color: brown;
-    height: 100%; 
+    width: 18%;
+    background-color: red;
+    height: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    color: white;
+    text-align: center;
 }
 .col2{
     float: left;
-    width: 90%;
-    background-color: blueviolet;
+    width: 82%;
+    background-color: rgb(220, 220, 220);
     height: 100%;
 }
 
 .row1{
     text-align: center;
-    background-color: green;
-    height: 10%;
+    background-color: white;
+    border-radius: 0px 0px 10px 10px;
+    height: 6%;
+    box-shadow: 0px 5px 20px grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+    padding-top: 5px;
 }
 
 .row2{
     text-align: center;
-    background-color: yellow;
     height: 90%;
     background: url(donate.png);
     background-repeat: no-repeat;
     background-position: center;
+    
 }
